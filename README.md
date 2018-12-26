@@ -21,3 +21,9 @@ headers: {
     },
 ```
 
+## References
+
+- [facebook/create-react-app](https://github.com/facebook/create-react-app)
+- [Hello, Blockstack Tutorial](https://docs.blockstack.org/browser/hello-blockstack.html)
+- [Dealing with CORS Errors in Blockstack Auth and React](https://forum.blockstack.org/t/dealing-with-cors-errors-in-blockstack-auth-and-react/2592/5)
+- [webpack - devServer.headers](https://webpack.js.org/configuration/dev-server/#devserver-headers-)
